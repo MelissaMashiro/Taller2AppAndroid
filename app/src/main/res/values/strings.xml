@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="Registro_Equipo">Registro de equipo:</string>
+    <string name="Ciudad">Seleccionar capital</string>
+    <string name="Numero_Campeonatos">Numero de campeonatos</string>
+    <string name="texto_guardar">Agregar</string>
+    <string name="texto_listado">LISTADO</string>
+    <string name="texto_eliminarPrimera">Eliminar equipo</string>
+    <string name="texto_agregarPeli">Agregar Equipo</string>
+    <string name="texto_editarEquipo">Editar Equipo</string>
+    <string name="hint_nombre">Inserte nombre de equipo</string>
+    <string name="hint_dt">Nombre de director técnico</string>
+    <string name="hint_Spinner">Digite nombre</string>
+    <string name="hint_Numberpicker">Digite nombre</string>
+    <string name="text_campeonatos_ganados">Campeonatos ganados</string>
+    <string name="action_eliminar">Eliminar</string>
+    <string name="action_modificar">Modificar</string>
+    <string name="text_detalleEquipo">Detalles Equipo</string>
+    <string name="String_modificar">Modificar Equipo</string>
+    <string name="edt_nombre">Ingrese nombre del equipo</string>
+    <string name="edt_direc">Ingrese director del equipo</string>
+    <string name="txtciu">Seleccione Ciudad</string>
+    <string name="txtcampeo">Numero de campeonatos</string>
+    <string name="btguardar">GUARDAR</string>
+    <string name="text_aquiestaUsr">Aqui estará el usuario</string>
+    <string name="text_aquiestaTec">Aqui estará el tecnico</string>
+    <string name="text_aquiestaCap">Aqui estará la capital</string>
+    <string name="text_aquiestacamp">numero de camp ganados</string>
+    <string name="infoEquipo">MODIFICANDO EQUIPO</string>
+    <string-array name="capitales">
+        <item>Amazonas</item>
+        <item>Antioquia</item>
+        <item>Arauca</item>
+        <item>Atlántico</item>
+        <item>Bolívar</item>
+        <item>Boyacá</item>
+        <item>Caldas</item>
+        <item>Caquetá</item>
+        <item>Casanare</item>
+        <item>Cauca</item>
+        <item>Cesar</item>
+        <item>Chocó</item>
+        <item>Córdoba</item>
+        <item>Cundinamarca</item>
+        <item>Guainía</item>
+        <item>Huila</item>
+        <item>Magdalena</item>
+        <item>Nariño</item>
+        <item>Meta</item>
+        <item>Santander</item>
+        <item>Sucre</item>
+        <item>Tolima</item>
+        <item>Valle del Cauca</item>
+        <item>Vaupés</item>
+        <item>Vichada</item>
+    </string-array>
+</resources>

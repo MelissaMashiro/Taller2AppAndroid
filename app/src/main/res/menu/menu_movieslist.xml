@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuAddMovie"
+        android:title="@string/texto_agregarPeli" />
+    <item
+        android:id="@+id/mnuEditEquipo"
+        android:title="@string/texto_editarEquipo" />
+    <item
+        android:id="@+id/mnuElimiarEqui"
+        android:title="@string/texto_eliminarPrimera" />
+</menu>
